@@ -25,8 +25,8 @@ Inspirada en la experiencia retro de escritorio, pero adaptada a dispositivos m√
 1. **Clona el repositorio**
 
    ```bash
-   git clone https://github.com/tuusuario/minesweeper-nico-sco.git
-   cd minesweeper-nico-sco
+   git clone https://github.com/nicolasscolnik/Minesweeper-React-Native.git
+   cd Minesweeper-React-Native
    ```
 
 2. **Instala dependencias**
