@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+
+# Metro, cache & bundler
+*.log
+*.expo
+*.tgz
+
+# VSCode settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# System
+Thumbs.db
+*.swp
+*.swo
+
+# Android/iOS (solo si ejectás)
+android/
+ios/
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# EAS/Expo build artifacts
+*.tar.gz
+*.aab
+*.apk
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDEs, coverage, misc
+.idea/
+coverage/
+
